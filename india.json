@@ -1,0 +1,101 @@
+[
+    {
+        "_id": 6,
+        "Name": "Republic Day",
+        "Date": "2025-01-26T00:00:00",
+        "Description": "Republic Day is a national hol_iday in India, celebrated on January 26th every year to honor the date on which the Constitution of India came into effect in 1950, making India a sovereign, democratic republic.",
+        "Image": "",
+        "PlacesToVisit": "India Gate, Rajpath, Red Fort",
+        "WeatherCondition": "Cool and pleasant with clear skies",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 7,
+        "Name": "Holi",
+        "Date": "2025-03-14T00:00:00",
+        "Description": "Holi, also known as the Festival of Colors, is a popular Hindu festival celebrated with exuberant color throwing, singing, and dancing. It marks the arrival of spring and the victory of good over evil.",
+        "Image": "",
+        "PlacesToVisit": "Connaught Place, Chandni Chowk, India Gate",
+        "WeatherCondition": "Moderate and pleasant with clear skies",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 8,
+        "Name": "E_id al-Fitr",
+        "Date": "2025-04-02T00:00:00",
+        "Description": "E_id al-Fitr, also known as the Festival of Breaking the Fast, marks the end of Ramadan, the Islamic holy month of fasting. It is a joyous occasion celebrated with prayers, feasting, and giving to charity.",
+        "Image": "",
+        "PlacesToVisit": "Jama Masj_id, India Gate, Chandni Chowk",
+        "WeatherCondition": "Warm and pleasant with clear skies",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 9,
+        "Name": "Independence Day",
+        "Date": "2025-08-15T00:00:00",
+        "Description": "Independence Day is celebrated annually on August 15th to commemorate India's independence from British rule in 1947. It's marked by patriotic events, flag hoisting ceremonies, and cultural programs.",
+        "Image": "",
+        "PlacesToVisit": "Red Fort, India Gate, Rajpath",
+        "WeatherCondition": "Warm and hum_id with monsoon rains",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 10,
+        "Name": "E_id al-Adha",
+        "Date": "2025-06-30T00:00:00",
+        "Description": "E_id al-Adha, also known as the Festival of Sacrifice, commemorates the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God. It is marked by special prayers and feasts.",
+        "Image": "",
+        "PlacesToVisit": "Jama Masj_id, India Gate, Chandni Chowk",
+        "WeatherCondition": "Warm and hum_id with monsoon rains",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 11,
+        "Name": "Muharram",
+        "Date": "2025-07-21T00:00:00",
+        "Description": "Muharram is the first month of the Islamic calendar and a period of mourning in remembrance of the martyrdom of Imam Hussein, the grandson of the Prophet Muhammad, at the Battle of Karbala.",
+        "Image": "",
+        "PlacesToVisit": "Jama Masj_id, India Gate, Nizamuddin Dargah",
+        "WeatherCondition": "Warm and hum_id with monsoon rains",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 12,
+        "Name": "Diwali",
+        "Date": "2025-10-21T00:00:00",
+        "Description": "Diwali, also known as the Festival of Lights, is one of the most important Hindu festivals. It symbolizes the victory of light over darkness and good over evil. People celebrate by lighting lamps, bursting fireworks, and sharing sweets.",
+        "Image": "",
+        "PlacesToVisit": "Laxmi Nagar, Connaught Place, Akshardham Temple",
+        "WeatherCondition": "Cool and dry with clear skies",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 13,
+        "Name": "Gandhi Jayanti",
+        "Date": "2025-10-02T00:00:00",
+        "Description": "Gandhi Jayanti is celebrated on October 2nd to honor the birth anniversary of Mahatma Gandhi, the leader of the Indian independence movement. The day is marked with prayer services, commemorative events, and tributes to Gandhi's legacy.",
+        "Image": "",
+        "PlacesToVisit": "Raj Ghat, Gandhi Smriti, India Gate",
+        "WeatherCondition": "Pleasant with mild temperatures and clear skies",
+        "IsActive": true,
+        "Country": "India"
+    },
+    {
+        "_id": 14,
+        "Name": "Christmas Day",
+        "Date": "2025-12-25T00:00:00",
+        "Description": "Christmas Day is a Christian hol_iday celebrating the birth of Jesus Christ. It's a day for family gatherings, feasting, and gift-giving.",
+        "Image": "",
+        "PlacesToVisit": "Sacred Heart Cathedral, India Gate, Connaught Place",
+        "WeatherCondition": "Cool and pleasant with clear skies",
+        "IsActive": true,
+        "Country": "India"
+    }
+]
