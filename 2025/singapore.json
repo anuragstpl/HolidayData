@@ -1,0 +1,112 @@
+[
+    {
+        "Id": 1,
+        "Name": "New Year's Day",
+        "Date": "2025-01-01T00:00:00",
+        "Description": "Celebrated on January 1st, New Year's Day marks the beginning of the new year. It's a day for reflection, celebration, and setting new goals.",
+        "Image": ["images/new_years_day.jpg", "images/fireworks.jpg"],
+        "PlacesToVisit": "Gardens by the Bay, Marina Bay Sands, Clarke Quay",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 2,
+        "Name": "Chinese New Year",
+        "Date": "2025-01-29T00:00:00",
+        "Description": "Chinese New Year, also known as Lunar New Year, is a 15-day festival that celebrates the beginning of a new year on the traditional Chinese calendar. It's a time for family reunions, feasting, and various cultural activities.",
+        "Image": ["images/chinese_new_year.jpg", "images/lion_dance.jpg"],
+        "PlacesToVisit": "Chinatown, Gardens by the Bay, Clarke Quay",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 3,
+        "Name": "Hari Raya Puasa",
+        "Date": "2025-03-31T00:00:00",
+        "Description": "Hari Raya Puasa, also known as Eid al-Fitr, marks the end of Ramadan, the Islamic holy month of fasting. It's a time for celebration, feasting, and giving thanks.",
+        "Image": ["images/ramadan.jpg", "images/eid_al_fitr.jpg"],
+        "PlacesToVisit": "Gardens by the Bay, Marina Bay Sands, Clarke Quay",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 4,
+        "Name": "Good Friday",
+        "Date": "2025-04-18T00:00:00",
+        "Description": "Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It's a day of mourning and reflection for many Christians.",
+        "Image": ["images/good_friday.jpg", "images/cross.jpg"],
+        "PlacesToVisit": "St. Andrew's Cathedral, Singapore Botanic Gardens",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 5,
+        "Name": "Labour Day",
+        "Date": "2025-05-01T00:00:00",
+        "Description": "Labour Day, also known as International Workers' Day, is a celebration of the contributions of workers and the labor movement. It's a day for parades, demonstrations, and other events honoring workers.",
+        "Image": ["images/labour_day.jpg", "images/workers_parade.jpg"],
+        "PlacesToVisit": "Marina Bay Sands, Clarke Quay, Gardens by the Bay",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 6,
+        "Name": "Vesak Day",
+        "Date": "2025-05-12T00:00:00",
+        "Description": "Vesak Day is a Buddhist holiday that commemorates the birth, enlightenment, and death of Buddha. It's a day for reflection, meditation, and acts of kindness.",
+        "Image": ["images/vesak_day.jpg", "images/temple.jpg"],
+        "PlacesToVisit": "Buddha Tooth Relic Temple, Singapore Botanic Gardens",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 7,
+        "Name": "Hari Raya Haji",
+        "Date": "2025-06-07T00:00:00",
+        "Description": "Hari Raya Haji, also known as Eid al-Adha, is a Muslim holiday that commemorates the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God. It's a time for prayer, feasting, and charity.",
+        "Image": ["images/hari_raya_haji.jpg", "images/sacrifice.jpg"],
+        "PlacesToVisit": "Gardens by the Bay, Marina Bay Sands, Clarke Quay",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 8,
+        "Name": "National Day",
+        "Date": "2025-08-09T00:00:00",
+        "Description": "National Day is a public holiday in Singapore that celebrates the country's independence from Malaysia on August 9, 1965. It's a day for patriotic celebrations, including parades, fireworks, and other events.",
+        "Image": ["images/national_day.jpg", "images/fireworks.jpg"],
+        "PlacesToVisit": "Marina Bay Sands, Gardens by the Bay, Clarke Quay",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 9,
+        "Name": "Deepavali",
+        "Date": "2025-10-20T00:00:00",
+        "Description": "Deepavali, also known as Diwali, is a Hindu festival of lights that celebrates the victory of light over darkness, good over evil, and knowledge over ignorance. It's a time for family gatherings, feasting, and lighting lamps.",
+        "Image": ["images/deepavali.jpg", "images/lamps.jpg"],
+        "PlacesToVisit": "Sri Mariamman Temple, Little India, Singapore Botanic Gardens",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    },
+    {
+        "Id": 10,
+        "Name": "Christmas Day",
+        "Date": "2025-12-25T00:00:00",
+        "Description": "Christmas Day is a Christian holiday celebrating the birth of Jesus Christ. It's a day for family gatherings, feasting, and gift-giving.",
+        "Image": ["images/christmas.jpg", "images/tree.jpg"],
+        "PlacesToVisit": "Clarke Quay, Gardens by the Bay, Marina Bay Sands",
+        "WeatherCondition": "Typically warm and humid with occasional rain showers",
+        "IsActive": true,
+        "Country": "Singapore"
+    }
+]
